@@ -5,6 +5,15 @@ My personal homelab documenting networking, server administration, and virtualiz
 
 This repository documents my journey learning networking and systems administration while studying for the CCNA.
 
+## Documentation
+
+### Hardware
+- [Dell PowerEdge R710](hardware/dell-r710.md)
+- [Dell PowerEdge R720XD](hardware/dell-r720xd.md)
+
+### Troubleshooting
+- [R720XD Boot Issue](troubleshooting/dell-r720xd-bootissue.md)
+
 ## Hardware
 
 - Cisco Catalyst 2960-S (10G)
