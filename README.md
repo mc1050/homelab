@@ -1,4 +1,4 @@
-# homelab
+# Homelab
 My personal homelab documenting networking, server administration, and virtualization experiments using Dell PowerEdge servers while studying for the CCNA.
 
 ## My IT / Networking Homelab
