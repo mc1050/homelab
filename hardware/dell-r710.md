@@ -1,9 +1,7 @@
 # Hardware Information about my Dell R710
 
-<img src="../images/r710fr.jpg" width="500">
-
-![Dell R710](../images/r710fr.jpeg)
-![Dell R710](../images/r710top.jpeg)
+<img src="../images/r710fr.jpeg" width="500">
+<img src="../images/r710top.jpeg" width="500">
 
 ## Overview
 This server is currently used as a virtualization and Active Directory lab machine.
