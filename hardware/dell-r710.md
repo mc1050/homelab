@@ -1,6 +1,6 @@
 # Hardware Information about my Dell R710
 
-![Dell R710](../images/r710front.jpeg)
+![Dell R710](../images/r710fr.jpeg)
 ![Dell R710](../images/r710top.jpeg)
 
 ## Overview
