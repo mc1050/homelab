@@ -1,6 +1,6 @@
 # Hardware Information about my Dell R710
 
-<p>
+<p align="center">
   <img src="../images/r710fr.jpeg" width="400">
   <img src="../images/r710top.jpeg" width="400">
 </p>
