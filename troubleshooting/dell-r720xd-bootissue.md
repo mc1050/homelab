@@ -28,3 +28,12 @@ System still exhibits intermittent POST / video behavior.
 - Inspect CPUs and socket pins
 - Full motherboard teardown and cleaning
 - Attempt minimal boot configuration again
+
+## Troubleshooting LOG:
+
+### March 9 2026
+- Full teardown
+- Removed rear NIC, 3xPCIe Cards, Backplane
+- Tried Board with psu, 2xCPU, 1x4GB RAM in A1
+- Tried a combination of RAM dimms
+- Try CPUS duing summer
