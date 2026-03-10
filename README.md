@@ -6,7 +6,7 @@ My personal homelab documenting networking, server administration, and virtualiz
 This repository documents my journey learning networking and systems administration while studying for the CCNA.
 
 <p align="center">
-  <img src="/images/stack-re.jpeg" width="400">
+  <img src="/images/stack-re.jpeg" width="450">
 </p>
 
 ## Documentation
