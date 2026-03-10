@@ -37,3 +37,7 @@ System still exhibits intermittent POST / video behavior.
 - Tried Board with psu, 2xCPU, 1x4GB RAM in A1
 - Tried a combination of RAM dimms
 - Try CPUS duing summer
+
+#### Suspected Issue
+- Corrupted BMC - IDRAC
+- Possible CPU problems
