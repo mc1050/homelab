@@ -23,7 +23,7 @@ Drives: 6x SAS - Not currently used
 
 ## Lab Log
 
-### 2026 Febuary
+### 2026 February
 - Purchased server
 - Verified POST
 - Checks Caddys, CPU, RAM and condition
@@ -31,3 +31,18 @@ Drives: 6x SAS - Not currently used
 - Powered on for first full inspection
 - Entered BIOS
 - Verified RAID configuration
+
+### 2026 March
+
+#### March 13
+- Configured local peer-to-peer network between Tailscale node and iDRAC6 Express
+- Configured BIOS and Lifecycle Controller
+- Worked on stabilizing iDRAC6 web interface (configured Java 6, TLS settings, Internet Explorer compatibility)
+- Received and installed iDRAC6 Enterprise card
+- Reconfigured iDRAC to use the dedicated iDRAC NIC
+- Received, configured, and installed Samsung 850 EVO 250GB SSD via SATA-Slim → SATA adapter
+- Installed Proxmox VE remotely using iDRAC remote console
+
+  Notes:
+- iDRAC6 requires legacy TLS and Java 6 for the web console
+- Modern browsers must use IE or other older browser with adjustments
