@@ -31,7 +31,7 @@ System still exhibits intermittent POST / video behavior.
 
 ## Troubleshooting LOG:
 
-## March 9, 2026 – Troubleshooting Log (Dell R720xd)
+## March 9, 2026
 
 ### Symptoms
 - System sometimes boots normally and reaches BIOS.
@@ -104,7 +104,7 @@ System still exhibits intermittent POST / video behavior.
 - Corrupted BMC - IDRAC
 - Possible CPU problems
 
-## March 13, 2026 – Troubleshooting Log (Dell R720xd)
+## March 13, 2026
 
 ### Current Thoughts 
 - Thinking the idrac6 nand flash is corrupt and due to the unstable state I will try to install a firmware update via a live linux USB
