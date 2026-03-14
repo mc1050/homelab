@@ -14,6 +14,7 @@ This repository documents my journey learning networking and systems administrat
 ### Hardware
 - [Dell PowerEdge R710](hardware/dell-r710.md)
 - [Dell PowerEdge R720XD](hardware/dell-r720xd.md)
+- [Mini PCs](hardware/mini-pcs.md)
 
 ### Troubleshooting
 - [R720XD Boot Issue](troubleshooting/dell-r720xd-bootissue.md)
