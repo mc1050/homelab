@@ -103,3 +103,10 @@ System still exhibits intermittent POST / video behavior.
 #### Suspected Issue
 - Corrupted BMC - IDRAC
 - Possible CPU problems
+
+## March 13, 2026 – Troubleshooting Log (Dell R720xd)
+
+### Current Thoughts 
+- Thinking the idrac6 nand flash is corrupt and due to the unstable state I will try to install a firmware update via a live linux USB
+- RAM, CPU, and NIC all working
+- Will continue at a later date...
