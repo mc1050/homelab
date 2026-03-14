@@ -47,3 +47,6 @@ Drives: 6x SAS - Not currently used
   Notes:
 - iDRAC6 requires legacy TLS and Java 6 for the web console
 - Modern browsers must use IE or other older browser with adjustments
+
+  Extra:
+- Received RAM holder
