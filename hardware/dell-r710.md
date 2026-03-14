@@ -40,6 +40,7 @@ Drives: 6x SAS - Not currently used
 - Worked on stabilizing iDRAC6 web interface (configured Java 6, TLS settings, Internet Explorer compatibility)
 - Received and installed iDRAC6 Enterprise card
 - Reconfigured iDRAC to use the dedicated iDRAC NIC
+- Removed DVD drive, for SSD
 - Received, configured, and installed Samsung 850 EVO 250GB SSD via SATA-Slim → SATA adapter
 - Installed Proxmox VE remotely using iDRAC remote console
 
